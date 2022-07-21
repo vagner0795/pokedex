@@ -1,6 +1,6 @@
 body {
 	background: #EFEFBB;
-	background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+	background-image: linear-gradient(to right top, #26cdd4, #3c988b, #3b6552, #29372a, #0c0d0a);
 	color: white;
 	margin: 0;
 	font-family: rubik;
@@ -97,6 +97,10 @@ h1 {
 
 .ghost {
 	background-color:#eeaeca;
+}
+
+.dark{
+	background-color: #b8adad;
 }
 
 .card:hover {
